@@ -6,28 +6,73 @@ People are still the focal point of all business and in recent times we have bee
 
 ### Internet of Behaviors
 
-``` (Projects To Be Listed Soon..) ```
+```
+Projects 
+Will
+Be
+Listed
+Here 
+Soon..
+```
 
 ### Total Experience Strategy
 
-(Projects To Be Listed Soon..)
+```
+Projects 
+Will
+Be
+Listed
+Here 
+Soon..
+```
 
 ### Privacy Enhancing Computing
 
-(Projects To Be Listed Soon..)
+```
+Projects 
+Will
+Be
+Listed
+Here 
+Soon..
+```
 
 ## Location Independence:
 
 Location Independence is fast becoming a way of life, it's tied in with being able to work and living interchangeably at any place you that is suited.
 
 ### Distributed Cloud
-(Projects To Be Listed Soon..)
+
+```
+Projects 
+Will
+Be
+Listed
+Here 
+Soon..
+```
 
 ### Total Experience Strategy
-(Projects To Be Listed Soon..)
+
+```
+Projects 
+Will
+Be
+Listed
+Here 
+Soon..
+```
 
 ### Cyber Security Mesh
-(Projects To Be Listed Soon..)
+
+```
+Projects 
+Will
+Be
+Listed
+Here 
+Soon..
+```
 
 ## Resilient delivery:
 In the words of Heraclitus:
@@ -36,10 +81,33 @@ In the words of Heraclitus:
 We need to build solutions that are going to able to weather storms.
 
 ### Intelligent Composable Business
-(Projects To Be Listed Soon..)
+
+```
+Projects 
+Will
+Be
+Listed
+Here 
+Soon..
+```
 
 ### AI engineering
-(Projects To Be Listed Soon..)
+
+```
+Projects 
+Will
+Be
+Listed
+Here 
+Soon..
+```
 
 ### Hyperautomation
-(Projects To Be Listed Soon..)
+```
+Projects 
+Will
+Be
+Listed
+Here 
+Soon..
+```
