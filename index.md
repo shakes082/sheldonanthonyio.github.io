@@ -2,7 +2,7 @@
   
 ## People Centricity
 
-People are still the focal point of all business and in recent times we have been presented with many challenges. How, where and when we do our daily job and live our daily lives has significantly changed recently. It is really not a new concept but it is evolving and expanding. We used to have the concept of customer centricity and now that concept has basically evolved or expanded into many different possibilities of the concept.
+People are still the focal point of all business and in recent times we have been presented with many challenges and opportunities for solutions. How, where and when we do our daily job and live our daily lives has significantly changed recently. It is really not a new concept but it is evolving and expanding. We used to have the concept of customer centricity and now that concept has basically evolved or expanded into many different possibilities of the concept.
 
 
 ### Internet of Behaviors
