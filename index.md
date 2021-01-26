@@ -1,4 +1,4 @@
-# Strategic Technology Focus
+# **** Strategic Technology Focus
   
 ## People Centricity
 
@@ -31,6 +31,7 @@ Location Independence is fast becoming a way of life, it's tied in with being ab
 
 ## Resilient delivery:
 
+digitizing
 The Only Constant in Life Is Change.'- Heraclitus
 
 We need to build solutions that are going to able to weather storms.
