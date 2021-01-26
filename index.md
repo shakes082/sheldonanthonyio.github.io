@@ -78,7 +78,7 @@ Soon..
 In the words of Heraclitus:
 > "The Only Constant in Life Is Change."
 
-We need to build solutions that are going to able to weather storms. We should constantly strive on delivering solutions that does not impact core customers when unexpected circumstances or disruptions arise.
+We need to build solutions that are going to be able to weather storms. We should constantly strive on delivering solutions that does not impact core customers when unexpected circumstances or disruptions arise.
 
 ### Intelligent Composable Business
 
