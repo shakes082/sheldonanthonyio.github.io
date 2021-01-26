@@ -39,7 +39,7 @@ Soon..
 
 ## Location Independence:
 
-Location Independence is fast becoming a way of life, it's tied in with being able to work and living interchangeably at any place you that is suited.
+Location Independence is fast becoming a way of life, it's tied in with being able to work and live interchangeably at any place you that is suited. The solutions we build should allow our users or customers to access them ubiquitously and responsively. 
 
 ### Distributed Cloud
 
