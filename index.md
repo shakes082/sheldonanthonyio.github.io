@@ -32,6 +32,7 @@ Location Independence is fast becoming a way of life, it's tied in with being ab
 ## Resilient delivery:
 In the words of Heraclitus 
 > The Only Constant in Life Is Change.
+
 We need to build solutions that are going to able to weather storms.
 
 ### Intelligent Composable Business
