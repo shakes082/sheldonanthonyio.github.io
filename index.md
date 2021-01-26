@@ -1,4 +1,4 @@
-# <center> Strategic Technology Focus</center>
+# Strategic Technology Focus
   
 ## People Centricity
 
@@ -17,30 +17,29 @@ People are still the focal point of all business and in recent times we have bee
 (Projects To Be Listed Soon..)
 
 ## Location Independence:
-<br />
+
 Location Independence is fast becoming a way of life, it's tied in with being able to work and living interchangeably at any place you that is suited.
-<br />
+
 ### Distributed Cloud
 (Projects To Be Listed Soon..)
-<br />
+
 ### Total Experience Strategy
 (Projects To Be Listed Soon..)
-<br />
+
 ### Cyber Security Mesh
 (Projects To Be Listed Soon..)
-<br />
-<br />
+
 ## Resilient delivery:
-<br />
-“The Only Constant in Life Is Change.”- Heraclitus <br >
+
+The Only Constant in Life Is Change.'- Heraclitus
+
 We need to build solutions that are going to able to weather storms.
-<br />
+
 ### Intelligent Composable Business
 (Projects To Be Listed Soon..)
-<br />
+
 ### AI engineering
 (Projects To Be Listed Soon..)
-<br />
+
 ### Hyperautomation
 (Projects To Be Listed Soon..)
-<br />
