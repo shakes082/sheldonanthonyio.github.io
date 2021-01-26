@@ -2,7 +2,7 @@
   
 ## People Centricity
 
-People are still the focal point of all business and in recent times we have been presented with many challenges. How, where and when we work has significantly changed recently. As developers we need to make sure we are playing our part in digitizing things in software domain.
+People are still the focal point of all business and in recent times we have been presented with many challenges. How, where and when we work has significantly changed recently. It is really not a new concept but it is evolving. We used to have the concept of customer centricity and now that idea has basically evpolved or expanded into many different possibilities of the concept.
 
 ### Internet of Behaviors
 
