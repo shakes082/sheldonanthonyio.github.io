@@ -41,7 +41,7 @@ Soon..
 
 ## Location Independence:
 
-Location Independence is fast becoming a way of life, it's tied in with being able to work and live interchangeably at any place you that is suited. The solutions we build should allow our users or customers to access them ubiquitously and responsively. 
+Location Independence is fast becoming a way of life, it's tied in with being able to work and live interchangeably at any place that is suited. The solutions we build should allow our users or customers to access them ubiquitously and responsively. 
 
 
 ### Distributed Cloud
@@ -81,7 +81,7 @@ Soon..
 In the words of Heraclitus:
 > "The Only Constant in Life Is Change."
 
-We need to build solutions that are going to be able to weather storms. We should constantly strive on delivering solutions that does not impact core customers when unexpected circumstances or disruptions arise.
+We need to build solutions that are going to be able to weather storms. We should constantly strive on delivering solutions that does not impact core users or customers when unexpected circumstances or disruptions arise.
 
 ### Intelligent Composable Business
 
@@ -94,7 +94,7 @@ Here
 Soon..
 ```
 
-### AI engineering
+### AI Engineering
 
 ```
 Projects 
