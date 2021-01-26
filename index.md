@@ -1,4 +1,4 @@
-# **** Strategic Technology Focus
+#**** Strategic Technology Focus
   
 ## People Centricity
 
