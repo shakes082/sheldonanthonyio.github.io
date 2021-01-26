@@ -23,8 +23,10 @@ Location Independence is fast becoming a way of life, it's tied in with being ab
 <br />
 ##Distributed Cloud
 (Projects To Be Listed Soon..)
+<br />
 ##Total Experience Strategy
 (Projects To Be Listed Soon..)
+<br />
 ##Cyber Security Mesh
 (Projects To Be Listed Soon..)
 <br />
@@ -32,11 +34,13 @@ Location Independence is fast becoming a way of life, it's tied in with being ab
 <br />
 “The Only Constant in Life Is Change.”- Heraclitus <br >
 We need to build solutions that are going to able to weather storms.
-
+<br />
 ##Intelligent Composable Business
 (Projects To Be Listed Soon..)
+<br />
 ##AI engineering
 (Projects To Be Listed Soon..)
+<br />
 ##Hyperautomation
 (Projects To Be Listed Soon..)
 <br />
