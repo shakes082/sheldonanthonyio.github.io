@@ -1,21 +1,20 @@
 # <center> Strategic Technology Focus</center>
   
 ## People Centricity
-<br />
+
 People are still the focal point of all business and in recent times we have been presented with many challenges. How, where and when we work has significantly changed recently. As developers we need to make sure we are playing our part in digitizing things in software domain.
-<br />
+
 ### Internet of Behaviors
-<br />
+
 (Projects To Be Listed Soon..)
-<br />
+
 ### Total Experience Strategy
-<br />
+
 (Projects To Be Listed Soon..)
-<br />
+
 ### Privacy Enhancing Computing
-<br />
+
 (Projects To Be Listed Soon..)
-<br />
 
 ## Location Independence:
 <br />
