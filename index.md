@@ -74,11 +74,11 @@ Here
 Soon..
 ```
 
-## Resilient delivery:
+## Resilient Delivery:
 In the words of Heraclitus:
 > "The Only Constant in Life Is Change."
 
-We need to build solutions that are going to able to weather storms.
+We need to build solutions that are going to able to weather storms. We constantly focus on delivering solutions that does not impact core customers when unexpected circumstances occur.
 
 ### Intelligent Composable Business
 
