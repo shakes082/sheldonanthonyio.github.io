@@ -4,6 +4,7 @@
 
 People are still the focal point of all business and in recent times we have been presented with many challenges. How, where and when we work has significantly changed recently. It is really not a new concept but it is evolving. We used to have the concept of customer centricity and now that idea has basically evolved or expanded into many different possibilities of the concept.
 
+
 ### Internet of Behaviors
 
 ```
@@ -37,9 +38,11 @@ Here
 Soon..
 ```
 
+
 ## Location Independence:
 
 Location Independence is fast becoming a way of life, it's tied in with being able to work and live interchangeably at any place you that is suited. The solutions we build should allow our users or customers to access them ubiquitously and responsively. 
+
 
 ### Distributed Cloud
 
